@@ -1,0 +1,4 @@
+C:\Users\Elisabeth\Documents\QUEEN'S UNIVERISTY\THIRD YEAR\COMP 320\application\library_DLL\GUI\Debug\GUI.vcxproj.AssemblyReference.cache
+C:\Users\Elisabeth\Documents\QUEEN'S UNIVERISTY\THIRD YEAR\COMP 320\application\library_DLL\GUI\Debug\GUI.popUp.resources
+C:\Users\Elisabeth\Documents\QUEEN'S UNIVERISTY\THIRD YEAR\COMP 320\application\library_DLL\GUI\Debug\GUI.window.resources
+C:\Users\Elisabeth\Documents\QUEEN'S UNIVERISTY\THIRD YEAR\COMP 320\application\library_DLL\GUI\Debug\GUI.vcxproj.GenerateResource.cache

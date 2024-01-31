@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  Date.cpp
+  dllmain.cpp
+  Events.cpp
+  Generating Code...
+     Creating library C:\Users\Elisabeth\Documents\QUEEN'S UNIVERISTY\THIRD YEAR\COMP 320\application\library_DLL\Debug\library_DLL.lib and object C:\Users\Elisabeth\Documents\QUEEN'S UNIVERISTY\THIRD YEAR\COMP 320\application\library_DLL\Debug\library_DLL.exp
+  library_DLL.vcxproj -> C:\Users\Elisabeth\Documents\QUEEN'S UNIVERISTY\THIRD YEAR\COMP 320\application\library_DLL\Debug\library_DLL.dll

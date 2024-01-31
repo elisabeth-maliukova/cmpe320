@@ -1,0 +1,55 @@
+
+			HelperName::Helper::BlendPics(this->pictureBox1, this->pictureBox2);
+			HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox2);
+			HelperName::Helper::BlendPics(this->pictureBox2, this->libraryIcons);
+			HelperName::Helper::BlendPics(this->libraryIcons, this->residenceIcons);
+			HelperName::Helper::BlendPics(this->residenceIcons, this->sportsIcons);
+
+
+private: System::Void iconsReset() {
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox4);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox5);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox6);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox7);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox8);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox9);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox10);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox11);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox12);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox13);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox14);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox15);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox16);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox17);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox18);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox19);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox20);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox21);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox22);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox23);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox24);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox25);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox26);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox27);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox28);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox29);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox30);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox31);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox32);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox33);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox34);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox35);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox36);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox37);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox38);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox39);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox40);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox41);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox42);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox43);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox44);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox45);
+	HelperName::Helper::BlendPics(this->pictureBox2, this->pictureBox46);
+
+
+}
